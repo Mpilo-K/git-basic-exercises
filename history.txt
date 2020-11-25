@@ -1,0 +1,421 @@
+    1  git clone
+    2  git --verson
+    3  git--version
+    4  git - version
+    5  --version
+    6  git --version
+    7  git --version
+    8  touch index.html
+    9  touch app.js
+   10  git init
+   11  git config --global user.name 'Mpilo Khumalo'
+   12  git config --global user.email 'mpilozenzele0@gmail.com'
+   13  git add index.html
+   14  git status
+   15  git rm --cached inde.html
+   16  git status
+   17  git rm --cached index.html
+   18  git status
+   19  git add *.html
+   20  git status
+   21  git rm --cached index.html
+   22  git add .
+   23  status
+   24  git status
+   25  git status
+   26  git add .
+   27  git status
+   28  git commit
+   29  git status
+   30  git add .
+   31  git status
+   32  git commit -m 'changed both html and js'
+   33  git commit -m 'changed both html and js'
+   34  clear
+   35  touch .gitignore
+   36  touch log.txt
+   37  git add .
+   38  git status
+   39  git rm --cached .gitignore
+   40  git status
+   41  git clone https://github.com/Mpilo-K/Wood_respiration_analysis.git
+   42  ls
+   43  cd
+   44  ls
+   45  ls
+   46  ls
+   47  exit
+   48  ls
+   49  ls/data
+   50  ls/Zotero
+   51  ls/
+   52  ls
+   53  pwd
+   54  git version
+   55  ls
+   56  git config --global unser.name "Mpilo Khumalo"
+   57  git config --global user.name "Mpilo Khumalo"
+   58  git config --global user.email mpilozenzele0@gmail.com
+   59  git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe'
+   60  -multiInst -notabbar -nosession -noPlugin
+   61  git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
+   62  git
+   63  sc
+   64  exit
+   65  git config --global init.defaultBranch main
+   66  git config --list
+   67  git config user.name
+   68  git help <verb>
+   69  man git-<verb>
+   70  git help config
+   71  cd
+   72  git init
+   73  ls
+   74  exit
+   75  cd/
+   76  cd/C:\Users\881764\Desktop\my_project
+   77  cd/C:/User/881764/Desktop/my_project
+   78  cd/C:/User/881764/Desktop/my_project
+   79  cd /Users/881764/Desktop/my_project
+   80  exit
+   81  ls
+   82  sl
+   83  cd C:/Users/881764/Desktop/my_project
+   84  ls
+   85  cd Desktop
+   86  cd C:/Users/881764/Desktop
+   87  ls
+   88  ls
+   89  cd C:Users/881764/Desktop/my_project
+   90  git init
+   91  git add .
+   92  git add index.html
+   93  git version
+   94  touch index.html
+   95  touch app.js
+   96   git config
+   97  git add index.html
+   98  git status
+   99  git rm --cached inde.html
+  100  git rm --cached index.html
+  101  git status
+  102  git add *.html
+  103  git status
+  104  git rm --cached index.html
+  105  git add .
+  106  git status
+  107  git status
+  108  git add .
+  109  git status
+  110  git status
+  111  git add .
+  112  git commit -m "Changed app.js and index.html"
+  113  git status
+  114  clear
+  115  touch .gitignore
+  116  touch log.txt
+  117  git add .
+  118  git status
+  119  git add .
+  120  git status
+  121  git add .
+  122  git status
+  123  git add .
+  124  git status
+  125   git branch login
+  126  git status
+  127  git commit -m "another change"
+  128  git status
+  129  git checkout login
+  130  clear
+  131  touch
+  132  touch login.html
+  133  git add .
+  134  git commit -m 'login form'
+  135  git checkout 'main'
+  136  git merge 'login'
+  137  git remote add origin https://github.com/Mpilo-K/myappsample.git
+  138  git remote
+  139  git puch -u origin main
+  140  git push -u origin main
+  141  git push -u origin 'main'
+  142  git remote
+  143  git remote add origin https://github.com/Mpilo-K/myappsample.git
+  144  git remote
+  145  git push -u origin main
+  146  touch README.md
+  147  git add .
+  148  git commit -m "Added readme"
+  149  git push
+  150  git commit -m "Added readme"
+  151  git push
+  152  git commit -m "Added readme"
+  153  git push
+  154  git status
+  155  git commit -m "Added readme"
+  156  git push
+  157  git add .
+  158  git commit -m "Added readme"
+  159  git push
+  160  git status
+  161  git clone https://github.com/Mpilo-K/myappsample.git
+  162  cd ~/Desktop/my_project
+  163  git pull
+  164  touch git-basic-exercises
+  165  cd ~/Dektop/git-basic-exercises
+  166  git touch git-basic-exercises
+  167  cd ~/Dektop/git-basic-exercises
+  168  cd C:Users/881764/Desktop/git-basic-exercises
+  169  ls
+  170  git init
+  171  ls
+  172  git status
+  173  touch README.md 
+  174  ls -a
+  175  git status
+  176  git log
+  177  git add .
+  178  git status
+  179  git log
+  180  git rm --cached
+  181  git rm --cached "README.md"
+  182  git status
+  183  git add .
+  184  git status
+  185  git commit -m "initial commit"
+  186  git log
+  187  q
+  188  nano README.md
+  189  cat README.md
+  190  git status
+  191  git stats
+  192  git add .
+  193  git commit -m 'second commit'
+  194  git status
+  195  nano README.md
+  196  cat README.md
+  197  git status
+  198  git commit -m "third commit"
+  199  git add . 
+  200  git commit -m "third commit"
+  201  git log
+  202  git checkout
+  203  git checkout 625ee8763bf8063db1a6abd98090ebb97f11f377
+  204  cat README.md
+  205  git checkout main
+  206  cat README.md
+  207  git branch
+  208  git branch milkshake-flavours
+  209  git branch
+  210  git checkout milkshake-flavours 
+  211  git branch
+  212  nano milkshakes.md
+  213  git status
+  214  git add .
+  215  git commit -m "added initial flavours"
+  216  git log
+  217  git checkout
+  218  git checkout master
+  219  git checkout main
+  220  git status
+  221  git branch history 
+  222  branch
+  223  git branch
+  224  git checkout history
+  225  git log
+  226  git branch
+  227  history > history.txt
+  228  ls -a
+  229  git add .
+  230  git commit -m "added history"
+  231  git log
+  232  git checkout milkshake-flavours 
+  233  git log
+  234  nano README.md
+  235  git add .
+  236  git commit -m "random readme changes"
+  237  git checkout history
+  238  cat README.md
+  239  rm README.md
+  240  echo "booya" > README.md
+  241  git add . 
+  242  git commit -m "rewrote readme"
+  243  git checkout main
+  244  ls
+  245  git log
+  246  git checkout milkshake-flavours 
+  247  ls
+  248  git log
+  249  git log
+  250  git checkout history 
+  251  ls
+  252  git log
+  253  git checkout main
+  254  git merge milkshake-flavours
+  255  ls
+  256  git log
+  257  git merge history 
+  258  ls
+  259  git log
+  260  git checkout history 
+  261  git merge history 
+  262  cat README.md
+  263  git merge history 
+  264  cd C:Users/881764/Desktop/git-basic-exercises
+  265  ls -a
+  266  git int
+  267  git init
+  268  ls -a
+  269  git status
+  270  touch README.md
+  271  ls -a
+  272  git status
+  273  git add.
+  274  git add .
+  275  git status
+  276  git commit -m "initial commit"
+  277  git log
+  278  nano README.md
+  279  cat README.md
+  280  git status
+  281  git add .
+  282  git commit -m "second commmit"
+  283  git status
+  284  git log
+  285  cat README.md
+  286  nano README.md
+  287  cat README.md
+  288  git add .
+  289  git commit -m "third commit"
+  290  cat README.md
+  291  git log
+  292  git checkout dce93617e07977cb35eaca3690c72c5f4e8e0101
+  293  cat README.md
+  294  git checkout main
+  295  cat README.md
+  296  git branch
+  297  git branch milkshake-flavours 
+  298  git branch
+  299  git checkout milkshake-flavours 
+  300  nano milkshakes.md
+  301  git status
+  302  git add .
+  303  git commit -m "added initial flavours"
+  304  git log
+  305  git checkout main
+  306  git status
+  307  git log
+  308  git branch history
+  309  git checkout history 
+  310  git log
+  311  git branch  
+  312  histroy > history.txt
+  313  history > history.txt
+  314  git add .
+  315  git commit -m "added history"
+  316  git log
+  317  git checkout milkshake-flavours 
+  318  GIT LOG
+  319  git log
+  320  nano README.md
+  321  cat README.md
+  322  nano README.md
+  323  cat README.md
+  324  git add .
+  325  git commit -m "random readme changes"
+  326  git checkout history 
+  327  cat README.md
+  328  rm README.md
+  329  echo "booya" > README.md
+  330  git status
+  331  git add .
+  332  git commit -m "rewrote readme"
+  333  git log
+  334  git checkout main
+  335  ls
+  336  git log
+  337  git checkout milkshake-flavours 
+  338  ls
+  339  rm REAME.mdy
+  340  ls
+  341  cat README.mdy
+  342  cat README.md
+  343  gir rm README.mdy
+  344  rm README.mdy
+  345  ls
+  346  cat milkshakes.md 
+  347  git log
+  348  git checkout history
+  349  ls
+  350  git log
+  351  git checkout main
+  352  git merge milkshake-flavours 
+  353  ls
+  354  git checkout milkshake-flavours 
+  355  ls
+  356  rm README.mdy
+  357  ls
+  358  git checkout main
+  359  git checkout milkshake-flavours 
+  360  ls
+  361  cd C:/Users/881764/Desktop/git-basic-exercises
+  362  ls -a
+  363  git init
+  364  ls -a
+  365  touch README.md
+  366  ls -a
+  367  git status
+  368  git add .
+  369  git status
+  370  rm README.md
+  371  git status
+  372  git add .
+  373  git status
+  374  clear
+  375  cd C:/Users/881764/Desktop/git-basic-exercises
+  376  ls -a
+  377  ls
+  378  ls -a
+  379  touch README.md
+  380  git log
+  381  git add .
+  382  git status
+  383  git rm --cached README.md
+  384  git status
+  385  git add .
+  386  git status
+  387  git commit -m "initial commit"
+  388  git log
+  389  nano README.md
+  390  cat README.md
+  391  git stats
+  392  git status
+  393  git add .
+  394  git commit -m "second commit"
+  395  git status
+  396  nano README.md
+  397  git add .
+  398  git commit -m "third commit"
+  399  git log
+  400  git checkout f5f84861a6a43549547e3339827b20b9997a7d50
+  401  cat README.md
+  402  git checkout main
+  403  cat README.md
+  404  git branch
+  405  git branch milkshake-flavours
+  406  git branch
+  407  git checkout milkshake-flavours  
+  408  nano milkshakes.md
+  409  git status
+  410  git add .
+  411  git commit -m "added initial flavours"
+  412  git status
+  413  git log
+  414  git checkout main
+  415  git log
+  416  git branch
+  417  git branch history
+  418  git checkout history
+  419  git log
+  420  git branch
+  421  history > history.txt
